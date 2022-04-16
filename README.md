@@ -1,11 +1,15 @@
 # Wordle word
 
-https://st3ph4nnn.github.io/wordle-word/
+https://st3ph4nnn.github.io/wordle-word/  
+
+
 Get the today's official wordle word.  
 If you want to reverse this yourself, allocate 5 minutes  
 and some tinkering in the javascripts file running on wordle  
 and you will essentially reverse engineer the word out   
 their algorithm is very weird also (but it works, so... shrug)
+
+if you want to take a look at the word list, it is **word_list.json**
 
 If any wordle-like game coder is looking at this,
 please make your website more secure.
