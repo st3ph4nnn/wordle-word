@@ -17,5 +17,5 @@ please make your website more secure.
 # Note
 
 I do not take any responsability for whatever you do with this.  
-This is made for enterntainment only and for my curiosity.  
+This was made for enterntainment only and for my curiosity.  
 Have a great day.
